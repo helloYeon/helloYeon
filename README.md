@@ -1,26 +1,26 @@
+# Hi, nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
+<img align="right" width="300" alt="GIF" src="https://user-images.githubusercontent.com/50859345/185594119-b04deb5f-6851-4f82-8733-f216d823a782.png" />
 
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
-😄
-
+Software Enginner at Japan
+```javascript
+const profileDetail = {
+      pronouns: 'he',
+      nationality: 'korea',
+      hobby: ['tennis', 'jogging', 'scuba diving', 'cycle'],
+      code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python'],
+      tools: ['Redux', 'Node', 'Jest', 'Docker'],
+      challenge: '',
+    };
+}
+```
 
 <br>
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 ♪( ´θ｀)ノ and Barcelona 😎.
 
 
-<br>
 
 
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
- 
  <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloyeo " alt="helloyeon" /> </p>
@@ -46,30 +46,20 @@ I support Manchester United 👿 ♪( ´θ｀)ノ and Barcelona 😎.
 
 <hr>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=helloyeo &show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-</details>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats
 
-</br>
-
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-</a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
-</a>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=helloyeon&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" width="350"height="150"/>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeon&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" width="350" height="150"/>
+</div>
 
+<div align="center">
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 
 <!---
@@ -120,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 --->
-![444](https://user-images.githubusercontent.com/50859345/185594119-b04deb5f-6851-4f82-8733-f216d823a782.png)
+
 
 
 
