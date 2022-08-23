@@ -1,6 +1,6 @@
 # Hi, nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<img align="right" width="300" alt="GIF" src="https://user-images.githubusercontent.com/50859345/185594119-b04deb5f-6851-4f82-8733-f216d823a782.png" />
+<img align="right" width="200" alt="GIF" src="https://user-images.githubusercontent.com/50859345/185594119-b04deb5f-6851-4f82-8733-f216d823a782.png" />
 
 Software Enginner at Japan
 ```javascript
