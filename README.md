@@ -1,5 +1,4 @@
-# Hi, nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+### Hi, nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <img align="right" width="200" alt="GIF" src="https://user-images.githubusercontent.com/50859345/185594119-b04deb5f-6851-4f82-8733-f216d823a782.png" />
 
 Software Enginner at Japan
@@ -16,9 +15,6 @@ const profileDetail = {
 ```
 
 <br>
-
-
-
 
 
  <br>
@@ -52,16 +48,14 @@ const profileDetail = {
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=helloyeon&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" width="350"height="150"/>
- 
+</div> 
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeon&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" width="350" height="150"/>
 </div>
 
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+#### Show some ❤️ by starring some of the repositories!
 </div>
-
-
-
 <!---
 
 ### 📢 Find me elsewhere
