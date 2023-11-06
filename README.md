@@ -9,7 +9,7 @@ const profile = {
       nationality: 'korea',
       hobby: ['tennis', 'jogging', 'scuba diving', 'cycle'],
       code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python'],
-      tools: ['Redux', 'Node', 'Jest', 'Docker'],
+      tools: ['Redux', 'Node', 'Jest'],
       challenge: 'youtuber',
     };
 }
@@ -26,8 +26,6 @@ const profile = {
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![angular](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-python-F9DC3E?style=for-the-badge&logo=python)
 <br><br>
