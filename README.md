@@ -2,9 +2,9 @@
 
 <img align="right" width="200" alt="GIF" src="https://user-images.githubusercontent.com/50859345/185594119-b04deb5f-6851-4f82-8733-f216d823a782.png" />
 
-Software Enginner at Japan
+**Profile:**
 ```javascript
-const profileDetail = {
+const profile = {
       pronouns: 'he',
       nationality: 'korea',
       hobby: ['tennis', 'jogging', 'scuba diving', 'cycle'],
@@ -14,15 +14,7 @@ const profileDetail = {
     };
 }
 ```
-
 <br>
-
-
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloyeo " alt="helloyeon" /> </p>
- 
- </br>
 
 **Languages and Tools:**
 <br>
@@ -31,21 +23,21 @@ const profileDetail = {
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-gnubash-4EAA25?style=for-the-badge&logo=gnubash)
+![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge&logo=docker&logoColor=ffffff)
+![docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![angular](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-python-F9DC3E?style=for-the-badge&logo=python)
+<br><br>
 
 
+**Certifications:**
+<p align="left"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="helloyeon"width="100px" /> </p>
 
-<hr>
 
-
-
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats
+#### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=helloyeon&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" width="350"height="150"/>
@@ -55,7 +47,9 @@ const profileDetail = {
 </div>
 
 <div align="center">
-#### Show some ❤️ by starring some of the repositories!
+#### Show some ❤️ by starring some of the repositories! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloyeo " alt="helloyeon" /> </p> 
+</br>
 </div>
 <!---
 
@@ -105,8 +99,3 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 --->
-
-
-
-
-
