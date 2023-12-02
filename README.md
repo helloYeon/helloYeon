@@ -16,8 +16,15 @@ const profile = {
 ```
 <br>
 
-**Skills:**
+**Certifications:**
+<p align="left">
+<img align="left" width="90" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+<img align="left" width="90" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+</p>
+<br clear="both"/>
 <br>
+
+**Skills:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -30,21 +37,16 @@ const profile = {
 ![Python](https://img.shields.io/badge/-python-F9DC3E?style=for-the-badge&logo=python)
 <br><br>
 
-
-**Certifications:**
-<p align="left"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="helloyeon"width="100px" /> </p>
-
-
 #### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=helloyeon&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" width="350"height="150"/>
 </div> 
-<div align="center">
+<div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyeon&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" width="350" height="150"/>
 </div>
 
-<div align="center">
+<div align="left">
 #### Show some ❤️ by starring some of the repositories! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloyeo " alt="helloyeon" /> </p> 
 </br>
