@@ -18,8 +18,8 @@ const profile = {
 
 **Certifications:**
 <p align="left">
-<img align="left" width="90" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-<img align="left" width="90" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+<a href="https://www.credly.com/badges/ee795e6d-5298-44fb-8a45-4c91d36358be/public_url"><img align="left" width="90" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+<a href="https://www.credly.com/badges/4c7cf9fb-1417-498f-9846-eb2ef2b67a8e/public_url"><img align="left" width="90" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 </p>
 <br clear="both"/>
 <br>
