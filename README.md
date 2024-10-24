@@ -17,9 +17,14 @@ const profile = {
 <br>
 
 **Certifications:**
-<p align="left">
-<a href="https://www.credly.com/badges/ee795e6d-5298-44fb-8a45-4c91d36358be/public_url"><img align="left" width="90" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
-<a href="https://www.credly.com/badges/4c7cf9fb-1417-498f-9846-eb2ef2b67a8e/public_url"><img align="left" width="90" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
+<p align="left" style="margin-left: -50px;">
+<a   href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=46666EFEC35A506E130782CE42021C287531F85412D85AAB5201AA7DB85BE52F"><img align="left" width="200" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png"></a>
+</p>
+<br clear="both"/>
+
+<p align="left" style="margin-top: 10px;">
+<a href="https://www.credly.com/badges/ee795e6d-5298-44fb-8a45-4c91d36358be/public_url"><img align="left" width="100" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+<a href="https://www.credly.com/badges/4c7cf9fb-1417-498f-9846-eb2ef2b67a8e/public_url"><img align="left" width="100" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 </p>
 <br clear="both"/>
 <br>
