@@ -41,7 +41,7 @@ const profile = {
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![angular](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-python-F9DC3E?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 <br><br>
 
 #### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
