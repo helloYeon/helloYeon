@@ -5,11 +5,10 @@
 **Profile:**
 ```javascript
 const profile = {
-      nationality: 🇰🇷,
+      nationality: [🇰🇷,🇯🇵],
       hobby: ['tennis', 'jogging', 'scuba diving', 'cycle'],
       code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python'],
       tools: ['Redux', 'Node', 'Jest'],
-      challenge: 'youtuber',
     };
 }
 ```
