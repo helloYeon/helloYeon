@@ -27,7 +27,7 @@ const profile = {
 <a href="https://www.credly.com/badges/4c7cf9fb-1417-498f-9846-eb2ef2b67a8e/public_url"><img align="left" width="100" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a href="https://www.credly.com/badges/de0e7e66-be87-4532-a594-630783001d08/public_url"><img align="left" width="100" src="https://images.credly.com/size/340x340/images/b4b619a6-b333-42a2-8d11-8602c231606c/blob"></a>
 <a href="https://www.credly.com/badges/aa059b75-442d-43c0-bfad-57ec02fc3535/public_url"><img align="left" width="100" src="https://images.credly.com/size/680x680/images/f4f1d8bf-e7d3-4b2a-9c0b-2d124ff701c3/blob"></a>
-<br>
+<br clear="both"/>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=46666EFEC35A506E130782CE42021C287531F85412D85AAB5201AA7DB85BE52F"><img align="left" width="200" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png"></a>
 </p>
 <br clear="both"/>
