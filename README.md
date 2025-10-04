@@ -5,8 +5,7 @@
 **Profile:**
 ```javascript
 const profile = {
-      pronouns: 'he',
-      nationality: 'korea',
+      nationality: 🇰🇷,
       hobby: ['tennis', 'jogging', 'scuba diving', 'cycle'],
       code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python'],
       tools: ['Redux', 'Node', 'Jest'],
